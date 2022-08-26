@@ -4,7 +4,9 @@
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
   
   <hr>
- 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
  <div id="badges" align="center">
  <a href = "https://www.linkedin.com/in/muhammed-yildirim-84ba51130/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,11 +15,12 @@
 
 <hr>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-(http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=gruvbox_duo)(https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=icegray)"/></a>
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=gruvbox_duo /></a>
+
 
 <!--
 **myildirim48/myildirim48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

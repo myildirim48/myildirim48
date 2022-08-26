@@ -11,16 +11,15 @@
  <a href = "https://www.linkedin.com/in/muhammed-yildirim-84ba51130/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=icegray)"/></a>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=gruvbox_duo"/></a>
-
-  
 </div>
 
 <hr>
 
 
+<div id="stats" align="center">
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=icegray)"/></a>
 
+</div>  
 
 
 

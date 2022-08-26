@@ -3,7 +3,10 @@
   I am a computer programming graduate and after my graduation I started to be interested in software again.
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/O2PhyxtkFwCtUO6nen" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PLCnext-code-we-can-O2PhyxtkFwCtUO6nen">via GIPHY</a></p>
 
 <!--
 **myildirim48/myildirim48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

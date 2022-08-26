@@ -4,8 +4,9 @@
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
   
   <hr>
- <div id="header" align="center">  
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;" align="center">
+    <iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+    </iframe>
 </div>
 
 

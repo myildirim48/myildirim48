@@ -5,7 +5,7 @@
   
   <hr>
  <div id="header" align="center">
-<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="200" height="230" frameBorder="0" allowFullScreen>
+<img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="200" height="230">
 </div>
 
 

@@ -2,8 +2,12 @@
   I'm currently learing Swift. <br>
   I am a computer programming graduate and after my graduation I started to be interested in software again.
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
-  
-  https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+ 
+ <div id="badges">
+ <a href = "https://www.linkedin.com/in/muhammed-yildirim-84ba51130/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 
 <div id="header" align="center">

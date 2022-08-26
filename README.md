@@ -3,9 +3,8 @@
   I am a computer programming graduate and after my graduation I started to be interested in software again.
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
   
-  <hr>
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;" align="center">
-    <img src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" >
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
 
 

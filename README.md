@@ -3,7 +3,7 @@
   I am a computer programming graduate and after my graduation I started to be interested in software again.
   To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
  
- <div id="badges">
+ <div id="badges" align="center">
  <a href = "https://www.linkedin.com/in/muhammed-yildirim-84ba51130/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,6 +12,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=myildirim48&theme=gruvbox_duo)](https://git.io/streak-stats)
 </div>
 
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
   I'm currently learing Swift. <br>
   I am a computer programming graduate and after my graduation I started to be interested in software again.
-  To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
+  To be an iOS developer, I'm learning swift, I've been developing myself with swift. You can see some of the apps I've developed in my profile.
   
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>

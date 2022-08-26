@@ -1,4 +1,9 @@
 ### Hi there 👋
+  I'm currently learing Swift
+  I am a computer programming graduate and after my graduation I started to be interested in software again.
+  To be an iOS developer, I'm learning swift, I've been developing myself with swift for about 4 months. You can see some of the apps I've developed in my profile.
+
+
 
 <!--
 **myildirim48/myildirim48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+

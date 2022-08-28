@@ -1,6 +1,7 @@
 ### Hi there 👋
   I'm currently learing Swift. <br>
   I am a computer programming graduate <br>
+  I'm here to learn how to fish, not to buy fish like in my profile <br>
   I am improving myself to become an iOS Developer. I do not have a professional work experience in the software field but i am fast learner and a highly motivated person. 
   
   <div id="header" align="center">

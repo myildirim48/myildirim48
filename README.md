@@ -1,5 +1,5 @@
 ### Hi there 👋
-  🧑🏼‍💻 I'm currently learing Swift. <br>
+  🧑🏼‍💻 I'm learning and developing SwiftUI. <br>
 
 
   <div id="header" align="center">
